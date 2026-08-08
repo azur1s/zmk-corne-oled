@@ -46,8 +46,8 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - number
   - $$mdi:keyboard-space$$
-  - programming
   - LEFT WIN
+  - programming
   - misc
   workman:
   - $$mdi:keyboard-tab$$
@@ -193,8 +193,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   misc:
   - F1
